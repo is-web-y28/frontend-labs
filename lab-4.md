@@ -31,6 +31,7 @@
 
 - React: [Mantine](https://mantine.dev/), [Material UI](https://mui.com/), [Chakra UI](https://chakra-ui.com/), [Hero UI](https://heroui.com/)
 - Vue: [Vuetify](https://vuetifyjs.com/), [PrimeVue](https://primevue.org/), [Naive UI](https://www.naiveui.com/), [Element Plus](https://element-plus.org/)
+- Angular: [Material](https://material.angular.dev), [PrimeNG](https://primeng.org), [Spartan](https://spartan.ng), [Taiga UI](https://taiga-ui.dev)
 
 Глобальной разницы между ними нет, берите что понравилось больше. Можно брать любой другой ui-kit — главное, чтобы в нем было много разных компонентов.
 
